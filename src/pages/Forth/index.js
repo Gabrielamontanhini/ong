@@ -44,7 +44,6 @@ export default function ForthPage() {
                         <Ong>
                             <img src={ong.img} alt="ong" />
                             <h3>{ong.ongName}</h3>
-                            <p>Ong de assistencia a animais com problemas de mobilidade</p>
                         </Ong>
                     </SwiperSlide>
                 ))}
