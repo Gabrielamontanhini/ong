@@ -7,7 +7,6 @@ import mobility from "../../assets/mobility.png"
 import white from "../../assets/white.png"
 import Slider from "../../commons/Slider";
 import { SwiperSlide } from "swiper/react";
-import { OngCard } from "../../components/ongCard";
 
 
 export default function ForthPage() {
