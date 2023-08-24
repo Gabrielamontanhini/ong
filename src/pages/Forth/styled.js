@@ -7,11 +7,11 @@ width: 80%;
     padding: 32px;
     height: 200px;
     margin-bottom: 20px;
-    background-color: aliceblue;
 }
 .swiper-slide{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 .swiper-pagination-bullet-active{
     background-color: #718096;
@@ -25,9 +25,16 @@ width: 80%;
 `
 
 export const Ong = styled.div`
-width: 100px;
+width: 120px;
 height: 190px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
 img{
-    width: 60%;
+    height: 60%;
+}
+h3{
+    width: 100%;
 }
 `

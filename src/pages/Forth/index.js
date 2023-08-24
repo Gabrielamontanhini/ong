@@ -13,7 +13,7 @@ export default function ForthPage() {
     const ongs = [
         { id: '1', img: white, ongName: "Resgatados" },
         { id: '2', img: mobility, ongName: "Mobilidadinhos" },
-        { id: '3', img: grey, ongName: "ONG Gato Cinza" },
+        { id: '3', img: grey, ongName: "Gato Cinza" },
         { id: '4', img: find, ongName: "Bicho Perdido" },
         { id: '5', img: catdog, ongName: "CatDog" },
         { id: '6', img: jaguar, ongName: "Jaguarzinhos" }
