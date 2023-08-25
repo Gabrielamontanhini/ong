@@ -11,6 +11,12 @@ article{
     @media (max-width: 760px){
         display: flex;
         flex-direction: column;
+        align-items: center;
+        width: 90%;
+        img{
+            width: 60%;
+        }
+        
     }
 }
 div, figure{
@@ -21,6 +27,7 @@ figure{
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    border-radius: 50%;
     img{
         width: 100%;
     }

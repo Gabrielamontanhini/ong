@@ -3,7 +3,6 @@ import { styled } from "styled-components";
 export const Fifth = styled.section`
 width: 80%;
 display: flex;
-background-color: azure;
 figure{
     width: 400px;
     height: 400px;
@@ -39,7 +38,7 @@ form{
     justify-content: space-evenly;
     flex-direction: column;
     align-items: center;
-    background-color: plum;
+    border: 1px solid black;
     border-radius: 12px;
 }
 input, textarea, label{
