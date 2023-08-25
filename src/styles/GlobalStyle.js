@@ -45,7 +45,7 @@ p{
 			background-color: lightgray;
 		}
 	}
-	input {
+	input , textarea{
 		background: #FFFFFF;
 		border: 1px solid #D5D5D5;
 		border-radius: 3px;

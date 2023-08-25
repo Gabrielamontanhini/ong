@@ -76,4 +76,11 @@ input{
         bottom: 10px;
         right: 2vw;
     }
+.linkedin{
+    width: 60px;
+}
+a{
+    align-self: flex-start;
+    margin-left: 10%;
+}
 `
