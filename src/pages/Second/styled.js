@@ -9,6 +9,14 @@ div{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
+    @media (max-width: 760px){
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        article{
+            width: 70%;
+        }
+    }
 }
 img{
     width: 100px;
@@ -18,7 +26,7 @@ article{
     flex-direction: column;
     align-items: center;
     width: 250px;
-    h3, p{
+    p{
         width: 100%;
     }
 }

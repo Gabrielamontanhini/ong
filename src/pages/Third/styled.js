@@ -8,6 +8,10 @@ align-items: center;
 article{
     display: flex;
     align-items: center;
+    @media (max-width: 760px){
+        display: flex;
+        flex-direction: column;
+    }
 }
 div, figure{
     flex: 2;

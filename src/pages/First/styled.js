@@ -16,4 +16,12 @@ article{
         width: 60%;
     }
 }
+@media (max-width: 760px){
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        article{
+            width: 80vw;
+        }
+    }
 `
