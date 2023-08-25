@@ -1,6 +1,9 @@
 import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
+html {
+  scroll-behavior: smooth;
+}
 body{
 	background-image: url(https://jetpetresort.com/wp-content/uploads/2023/04/puppy-and-cat-smelling-eachother.png);
 background-size: cover;

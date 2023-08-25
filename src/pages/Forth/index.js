@@ -28,7 +28,7 @@ export default function ForthPage() {
         }
     }
     return (
-        <Forth>
+        <Forth id="quem">
             <article>
                 <h2>
                     Algumas ONGs Parceiras!

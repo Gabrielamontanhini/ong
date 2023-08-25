@@ -2,7 +2,7 @@ import { Third } from "./styled";
 
 export default function ThirdPage() {
     return (
-        <Third>
+        <Third id="como">
             <h2>Como executamos a nossa missão:</h2>
             <article>
                 <div>

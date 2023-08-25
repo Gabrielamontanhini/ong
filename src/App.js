@@ -1,3 +1,4 @@
+import Header from "./components/header";
 import FifthPage from "./pages/Fifth";
 import FirstPage from "./pages/First";
 import ForthPage from "./pages/Forth";
@@ -9,6 +10,7 @@ import { Main } from "./styles/styled";
 function App() {
   return (
     <Main>
+    <Header/>
     <FirstPage />
     <SecondPage />
     <ThirdPage />

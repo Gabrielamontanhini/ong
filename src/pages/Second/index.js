@@ -5,7 +5,7 @@ import { Second } from "./styled"
 
 export default function SecondPage(){
     return (
-        <Second>
+        <Second id="com">
             <h2>Auxiliamos com:</h2>
             <div className="auxilios">
 <article>
