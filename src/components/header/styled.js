@@ -10,6 +10,12 @@ margin-bottom: 5px;
 display: flex;
 flex-direction: column;
 align-items: center;
+.title{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 nav{
     width: 80%;
 }
@@ -17,5 +23,15 @@ ul{
     width: 100%;
     display: flex;
     justify-content: space-between;
+}
+li{
+    width: fit-content;
+    height: 85px;
+}
+@media (max-width: 760px){
+        display: flex;
+        height: max-content;
+        flex-direction: column;
+        align-items: center;
 }
 `

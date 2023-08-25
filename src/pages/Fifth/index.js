@@ -28,7 +28,7 @@ export default function FifthPage() {
                     <button>Enviar!</button>
                 </form>
             </div>
-            <button><a href="#topo">Voltar ao topo</a></button>
+            <button className="voltarTopo"><a href="#topo">Voltar ao topo</a></button>
         </Fifth>
     )
 }

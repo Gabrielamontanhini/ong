@@ -3,7 +3,8 @@ import { HeaderStyle } from "./styled";
 export default function Header() {
     return (
         <HeaderStyle id="topo">
-            <h1>Rede de Assistência Monetária Animal</h1>
+            <div className="title"><h1>Rede de Assistência Monetária Animal</h1></div>
+            
             <nav>
                 <ul>
                     <li><a href="#com">Com o que ajudamos </a></li>

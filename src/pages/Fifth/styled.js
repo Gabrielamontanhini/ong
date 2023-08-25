@@ -71,4 +71,9 @@ input{
             height: 150px;
         }
     }
+    .voltarTopo{
+        position: fixed;
+        bottom: 10px;
+        right: 2vw;
+    }
 `
