@@ -53,4 +53,20 @@ input{
     height: 9%;
     border-radius: 5px;
 }
+@media (max-width: 760px){
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        article, div{
+            width: 90%;
+        }
+        form{
+            width: 90%;
+            height: 400px;
+        }
+        figure{
+            width: 150px;
+            height: 150px;
+        }
+    }
 `
