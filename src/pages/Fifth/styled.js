@@ -1,0 +1,56 @@
+import { styled } from "styled-components";
+
+export const Fifth = styled.section`
+width: 80%;
+display: flex;
+background-color: azure;
+figure{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 200px;
+    overflow: hidden;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    p{
+        width: 80%;
+    }
+}
+article, div{
+    width: 50%;
+}
+img{
+    width: 110%;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    background-color: plum;
+    border-radius: 12px;
+}
+input, textarea, label{
+    width: 90%;
+}
+textarea{
+    border-radius: 5px;
+    height: 40%;
+}
+input{
+    height: 9%;
+    border-radius: 5px;
+}
+`

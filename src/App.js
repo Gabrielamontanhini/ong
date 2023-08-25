@@ -1,3 +1,4 @@
+import FifthPage from "./pages/Fifth";
 import FirstPage from "./pages/First";
 import ForthPage from "./pages/Forth";
 import SecondPage from "./pages/Second";
@@ -12,6 +13,7 @@ function App() {
     <SecondPage />
     <ThirdPage />
     <ForthPage />
+    <FifthPage />
     </Main>
   );
 }

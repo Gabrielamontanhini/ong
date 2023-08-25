@@ -20,7 +20,7 @@ export default function ForthPage() {
     ]
     const settings = {
         spaceBetween: 50,
-        slidesPerView: 2,
+        slidesPerView: 3,
         navigation: true,
         loop: true,
         pagination: {
