@@ -3,6 +3,8 @@ import { styled } from "styled-components";
 export const Fifth = styled.section`
 width: 80%;
 display: flex;
+margin-top: 10px;
+margin-bottom: 10px;
 figure{
     width: 400px;
     height: 400px;
@@ -35,6 +37,7 @@ form{
     width: 80%;
     height: 80%;
     display: flex;
+    background-color: white;
     justify-content: space-evenly;
     flex-direction: column;
     align-items: center;

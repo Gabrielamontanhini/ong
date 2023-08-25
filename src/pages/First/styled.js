@@ -21,7 +21,13 @@ article{
         flex-direction: column;
         align-items: center;
         article{
-            width: 80vw;
+            width: 90vw;
+        }
+        h1{
+            font-size: 30px;
+        }
+        p{
+            font-size: 25;
         }
     }
 `

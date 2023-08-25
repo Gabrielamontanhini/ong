@@ -2,19 +2,19 @@ import { styled } from "styled-components";
 
 export const Second = styled.section`
 width: 80%;
+margin-top: 10px;
 display: flex;
 flex-direction: column;
 align-items: center;
-div{
+.auxilios{
     display: flex;
     width: 100%;
     justify-content: space-evenly;
     @media (max-width: 760px){
-        display: flex;
         flex-direction: column;
         align-items: center;
         article{
-            width: 70%;
+            width: 80%;
         }
     }
 }
@@ -22,12 +22,15 @@ img{
     width: 100px;
 }
 article{
+    margin: 15px;
     display: flex;
+    border-radius: 10px;
     flex-direction: column;
     align-items: center;
-    width: 250px;
+    width: 190px;
+    background-color: white;
     p{
-        width: 100%;
+        width: 90%;
     }
 }
 `

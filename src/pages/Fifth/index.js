@@ -8,7 +8,7 @@ export default function FifthPage() {
                 <p>Seja como voluntário, cadastrar-se como ong, uma empresa parceira, ou se gostou da ideia,
                     entre em contato! Estamos ansiosos aguardando qualquer ajuda para a causa animal! </p>
                 <figure>
-                    <img src="https://pbs.twimg.com/media/FsBVIfSWYAEgtQF.jpg" alt="tele" />
+                    <img src="https://media.tenor.com/0J-VBajHtH8AAAAM/cat-cellphone.gif" alt="tele" />
                 </figure>
             </article>
             <div>

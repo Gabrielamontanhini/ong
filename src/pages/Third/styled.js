@@ -1,9 +1,9 @@
 import { styled } from "styled-components";
 
 export const Third = styled.section`
-width: 80%;
 display: flex;
 flex-direction: column;
+margin-top: 10px;
 align-items: center;
 article{
     display: flex;
@@ -12,7 +12,7 @@ article{
         display: flex;
         flex-direction: column;
         align-items: center;
-        width: 90%;
+        width: 80%;
         img{
             width: 60%;
         }

@@ -7,7 +7,7 @@ export default function SecondPage(){
     return (
         <Second>
             <h2>Auxiliamos com:</h2>
-            <div>
+            <div className="auxilios">
 <article>
     <img src={food} alt="comida"/>
     <h3>

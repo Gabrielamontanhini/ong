@@ -33,8 +33,8 @@ export default function ThirdPage() {
                     <p>
                         A fim de dar segurança aos beneficiários e beneficiados, o registro de ONGs segue um padrão imposto de controle de qualidade e serviços para evitar fraudes. Evitaremos
                         o que pessoas mal intencionadas possam se beneficiar de recursos destinados ao bem estar dos animais, precisando provar os gastos/serviços que alegam, mostrar a estrutura
-                        e o estado dos animais aos quais dá amparo de acordo com os valores recebidos (ou para provar ser uma organização verídica e lícita). Isso, além de gerar segurança
-                        para aqueles que doem a nossa instituição, de saber não só que os recursos doados são direcionados de maneira justa e de verdade,
+                        e o estado dos animais aos quais dão amparo de acordo com os valores recebidos (ou para provar ser uma organização verídica e lícita). Isso, além de gerar segurança
+                        para aqueles que doam à nossa instituição - de saber não só que os recursos doados são direcionados de maneira justa e de verdade - 
                         gera segurança para as ongs, que podem se cadastrar e receber ajuda de acordo com os serviços que acabam desempenhando. Então é do interesse
                         do amante de animais, doar com certeza e segurança, e da ong, de se cadastrar e divulgar a nossa instituição. Ninguém sai perdendo!
                     </p>
